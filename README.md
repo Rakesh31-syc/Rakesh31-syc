@@ -1,5 +1,5 @@
 <p align="center">  
-  <img height=450 width=1080 src="https://yourgiflink.gif">
+  <img height=450 width=1080 src="https://i.imgur.com/uWC1mk1.mp4">
 </p>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&color=A56DCF&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Explorer;Tech+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&color=A56DCF&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Explorer;Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
