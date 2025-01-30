@@ -94,12 +94,14 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
 
 ### Contributions
 
+### Contributions
+
 <div align="center">
    <a href="https://github.com/Rakesh31-syc">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman-dark.svg" alt="Pac-Man Contribution Grid" />
+      <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid" width="400" />
    </a>
    <br/>
    <a href="https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge" alt="Profile Views" width="200" />
    </a>
 </div>
