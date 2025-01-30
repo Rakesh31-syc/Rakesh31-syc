@@ -10,13 +10,25 @@
 
 <div align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&color=A56DCF&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+;Software+Enthusiast;Open+Source+Contributor;Tech+Explorer;AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&pause=1000&color=A56DCF&center=true&vCenter=true&width=500&height=100&lines=Full+Stack+;Software+Enthusiast;Block+Chain+Enthusiast;Open+Source+Contributor;Tech+Explorer;AI+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 ## Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/a-rakesh-340594250/]()
-- Email: rakesh310803@gmail.com
+
+<div align="center">
+   <a href="https://www.linkedin.com/in/a-rakesh-340594250/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+   </a>
+   &nbsp;
+   <a href="mailto:rakesh310803@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+   </a>
+   &nbsp;
+   <a href="https://www.instagram.com/rs____jhon_31/" target="_blank">
+      <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+   </a>
+</div>
 
 Feel free to connect with me or explore my projects. Let's collaborate and learn together!
 
@@ -83,6 +95,11 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
 ### Contributions
 
 <div align="center">
-   ![Pac-Man Contribution Grid](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-   ![](https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge)
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-pacman-dark.svg" alt="Pac-Man Contribution Grid" />
+   </a>
+   <br/>
+   <a href="https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge">
+      <img src="https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge" alt="Profile Views" />
+   </a>
 </div>
