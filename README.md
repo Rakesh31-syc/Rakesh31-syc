@@ -1,25 +1,19 @@
-# Hi there, I'm Rakesh! 👋
+# Hi there! 👋 I'm Rakesh
 
-I'm currently studying Computer Science and Engineering (CSE) and passionate about exploring the vast world of technology. Welcome to my GitHub profile!
+🚀 **Software Developer | Full-Stack Developer | Cloud Enthusiast**  
+🎓 Computer Science Graduate | Passionate about Web Development & AI  
 
-## About Me
-- 🎓 Studying Computer Science and Engineering.
-- 💻 Interested in software development, algorithms, and problem-solving.
-- 🌱 Currently learning [Testing , Fullsatck and UI/UX].
-- 🤝 Open to collaborations on projects related to [ Software Development, Open Source Contributions].
-- - Software Development: I'm passionate about creating efficient and scalable software solutions.
-  - Whether it's web development, mobile apps, or desktop applications, I'm eager to collaborate on projects that involve coding and problem-solving.
-  - Open Source Contributions: Contributing to open-source projects is a great way to learn and collaborate with others in the community.
-  -  I'm interested in contributing to projects that align with my skills and interests.
-- 📫 You can reach me via [Email](rakesh310803@gmail.com) or [LinkedIn](https://www.linkedin.com/in/yourlinkedin).
-
-## My Interests
-- Programming Languages: [python,java,c++]
-- Technologies: [React js, Node js]
+### 🔧 Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
 
-## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
-- Email: rakesh310803@gmail.com
+### 📈 GitHub Stats
+![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
 
-Feel free to connect with me or explore my projects. Let's collaborate and learn together!
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat)](https://yourportfolio.com)
