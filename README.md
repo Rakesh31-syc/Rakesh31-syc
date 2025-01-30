@@ -38,34 +38,29 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
 
 ### Stack I Work With
 
-<br/>
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto">
-</p>
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto">
-</p>
-
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto">
-&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoSize=auto">
-</p>
-
-<br/>
-
+<div align="center">
+   <p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto">
+   </p>
+   <p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto">
+   </p>
+   <p>
+      <img alt="Static Badge" src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/GRAPHQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto">
+      <img alt="Static Badge" src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto">
+   </p>
+</div>
 ### Discord
 
 
