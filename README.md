@@ -63,10 +63,7 @@
 ### 📝 GitHub Stats
 
 <div align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh31-syc&theme=github_dark)
-  <br/>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakesh31-syc&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakesh31-syc&theme=github_dark)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh31-syc&show_icons=true&theme=dark)
 </div>
 
 ### Contributions
