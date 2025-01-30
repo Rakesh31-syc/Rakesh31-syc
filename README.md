@@ -62,17 +62,22 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
 
 ### Git Activity
 
-<br/>
-
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh31-syc&theme=github_dark)
-<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakesh31-syc&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakesh31-syc&theme=github_dark)
-<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakesh31-syc&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakesh31-syc&theme=github_dark)
-<br/>
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh31-syc&theme=github_dark" />
+   </a>
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakesh31-syc&theme=github_dark" />
+   </a>
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakesh31-syc&theme=github_dark" />
+   </a>
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakesh31-syc&theme=github_dark" />
+   </a>
+   <a href="https://github.com/Rakesh31-syc">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakesh31-syc&theme=github_dark" />
+   </a>
 </div>
 
 ### Contributions
