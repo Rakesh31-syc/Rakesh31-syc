@@ -12,7 +12,8 @@
 
 
 ### 📈 GitHub Stats
-![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Rakesh GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakesh31-syc&show_icons=true&theme=dark)
+
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
