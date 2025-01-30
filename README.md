@@ -31,10 +31,28 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+  &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+</p>
+
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  &nbsp;
+  <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</p>
+
 ### 🔥 My Projects
 
 - **[AI-Powered Agricultural Chatbot](https://github.com/yourrepo)** – A chatbot helping farmers make informed decisions using AI.
 - **[Time Capsule](https://github.com/yourrepo)** – A platform where users can send letters to their future selves.
+- **[Real-Time Chat App](https://github.com/yourrepo)** – A full-stack chat application with WebSocket integration.
+- **[Movie Ticket Booking](https://github.com/yourrepo)** – A movie booking app built with the MERN stack.
 
 ### 💬 Let's Connect!
 
@@ -45,16 +63,16 @@
 ### 📝 GitHub Stats
 
 <div align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rakesh31-syc&theme=github_dark)
   <br/>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YourGitHubUsername&theme=github_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YourGitHubUsername&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rakesh31-syc&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakesh31-syc&theme=github_dark)
 </div>
 
 ### Contributions
 
 <div align="center">
-  ![snake gif](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/Rakesh31-syc/Rakesh31-syc/blob/output/github-contribution-grid-snake-dark.svg)
   <br/>
-  ![](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=Rakesh31-syc&style=for-the-badge)
 </div>
