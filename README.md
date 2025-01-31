@@ -61,7 +61,7 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
       <img alt="Static Badge" src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto">
    </p>
 </div>
-### Discord
+
 
 
 
@@ -86,7 +86,7 @@ Feel free to connect with me or explore my projects. Let's collaborate and learn
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rakesh31-syc&theme=github_dark" />
    </a>
 </div>
-### Contributions
+## Contributions
 
 <div align="center">
    <a href="https://github.com/Rakesh31-syc">
